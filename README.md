@@ -40,4 +40,4 @@ No base framework in this repo - custom markup.</p>
 
 <hr>
 
-<p>Free to use license 😊  with the hopes this inspires. Designed + Coded in 15.</p>
+<p>Free to use license 😊  with the hopes this inspires. Designed + Coded in 14.</p>
