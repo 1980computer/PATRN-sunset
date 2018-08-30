@@ -8,7 +8,7 @@
 
 <hr>
 
-<b>PATRN ~ Visit URL for visual references http://patrn.design</b>
+<b>PATRN ~ Visit URL for visual references http://davidbanthony.me/project/patrn/</b>
 
 <hr>
 
