@@ -1,4 +1,4 @@
-# <a href="http://patrn.design/" target="_blank"><img src="http://patrn.design/patrn-sunset/html/images/logo.svg" height="40" alt=""></a>
+# <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/logo.svg" height="40" alt=""></a>
 
 <p><b>Patrn (sunset) is a <a href="https://en.wikipedia.org/wiki/CSS_frameworks" target="_blank">framework</a> focused sole on layout capabilities.</b></p>
 
@@ -16,14 +16,14 @@
 
 <hr>
 
-<a href="http://patrn.design" target="_blank"><img src="http://patrn.design/patrn-sunset/html/images/_design/Angle.png" alt=""></a>
+<a href="http://patrn.design" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/_design/Angle.png" alt=""></a>
 
 <hr>
 
 <p>This repo contains 13 Templates that have been built with a component methodology in mind. Included is a page that outlines each component and how the blocks can be used to build out any style of layout.</p>
 
 <p><b>48 Component Combinations</b><br>
-<a href="http://patrn.design" target="_blank"><img src="http://patrn.design/patrn-sunset/html/images/_design/Angle2.png" alt=""></a>
+<a href="http://davidbanthony.me/project/patrn/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/_design/Angle2.png" alt=""></a>
 
 <p><b>13 Template Pages</b><br>
 <b>Static Menu Bar</b><br>
