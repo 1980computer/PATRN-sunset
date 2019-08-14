@@ -1,31 +1,26 @@
-# <a href="http://patrn.design/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/logo.svg" height="40" alt=""></a>
+# <a href="http://patrn.design/" target="_blank"><img src="https://patrn.design/assets/images/logo.svg" height="30" alt=""></a>
 
-<p>Patrn (Ocean) is a utility-first CSS framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation. http://davidbanthony.me/project/patrn/</p>
+### Patrn is an ongoing side project evolving as time permits.
 
-<hr>
+Patrn is a framework focused sole on layout capabilities for prototyping, building interfaces, or experimentation.
 
-<a href="http://patrn.design" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/_design/Angle.png" alt=""></a>
+[https://patrn.design](https://patrn.design)
 
-<hr>
+------------
 
-<p>This repo contains 13 Templates that have been built with a component methodology in mind. Included is a page that outlines each component and how the blocks can be used to build out any style of layout.</p>
+#### Version 2.0 - Patrn Ocean (CSS)
 
-<p><b>48 Component Combinations</b><br>
-<a href="http://davidbanthony.me/project/patrn/" target="_blank"><img src="http://davidbanthony.me/project/patrn/patrn-sunset/html/images/_design/Angle2.png" alt=""></a>
+[GitHub Repo - Patrn Ocean](https://github.com/davidbanthony/PATRN-ocean)
 
-<p><b>13 Template Pages</b><br>
-<b>Static Menu Bar</b><br>
-Modal Newsletter Signup<br>
-Modal Contact Signup<br>
-Modal Project Slideshow Lightbox</p>
+This repo contains a css framework that has been built with a component methodology enabling rapid layout abilities. Included is a style guide template page that outlines each component and how the blocks can be used to build out any style of layout.
 
-<p><b>Framework Base Folders</b><br>
-No base framework in this repo - custom markup.</p>
 
-<hr>
+------------
 
-<a href="https://twitter.com/davidbanthony" class="twitter-follow-button" data-show-count="false">Twitter - Follow @davidbanthony</a>
+#### Version 1.0 - Patrn Sunset (CSS)
 
-<hr>
+[GitHub Repo - Patrn Ocean](https://github.com/davidbanthony/PATRN-sunset)
 
-<p>Free to use license 😊  with the hopes this inspires. Designed + Coded in 14.</p>
+This repo contains a css framework that has been built with a component methodology enabling rapid layout abilities. Included is are thirteen template pages that outlines each component and how the blocks can be used to build out any style of layout.
+
+------------
